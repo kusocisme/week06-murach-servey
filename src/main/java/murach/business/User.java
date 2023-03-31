@@ -1,7 +1,7 @@
 package murach.business;
 
 import java.io.Serializable;
-
+//kusocisme
 public class User implements Serializable {
 
     private String firstName;
